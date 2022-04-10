@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="pismlab7var8:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/pismlab7var8_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pismlab7var8" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.transaction:javax.transaction-api:1.2" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: javax.jms:javax.jms-api:2.0.1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="pismlab7var8/web/Web" />
+    </root>
+  </artifact>
+</component>
